@@ -1,4 +1,8 @@
 # grinding_robot
-grinding_robot
-mypcl
-myscan
+Install Package:
+
+OpenCv
+PCL: Point Cloud Lib
+QT
+
+
