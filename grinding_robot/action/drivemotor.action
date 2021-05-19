@@ -1,0 +1,17 @@
+#goal
+float64[] angles 
+float64[] speeds
+float64[] acceleratetions
+float64[] encoders
+---
+#result
+float64[] angles 
+float64[] speeds
+float64[] acceleratetions
+float64[] encoders
+---
+#feedback
+float64[] angles 
+float64[] speeds
+float64[] acceleratetions
+float64[] encoders

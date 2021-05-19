@@ -1,0 +1,15 @@
+<launch>
+
+  <node pkg="grinding_robot" name="gui_motor" type="gui_motor" />
+  
+   
+   <machine
+            name="laserscan"
+            address="192.168.0.20"
+            env-loader="/opt/ros/melodic/env_remote1.sh"
+            default="true"
+            user="ubuntu"
+   />
+   <node machine="laserscan" pkg="mypcl" name="mylaser" type="mylaser" />
+   
+</launch>

@@ -1,0 +1,14 @@
+#goal
+int32   IdCode
+int32[] laserCommand
+byte[] motorCommand
+---
+#result
+int32   IdCode
+int32[] laserCommand
+byte[] motorCommand
+---
+#feedback
+int32   IdCode
+int32[] laserCommand
+byte[] motorCommand
