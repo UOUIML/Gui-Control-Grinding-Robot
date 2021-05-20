@@ -14,8 +14,8 @@ rosrun grinding_robot gui_motor\
 ssh to raspberry: ssh ubuntu@192.168.0.15\
 password: thocao2019\
 rosrun mypcl mylaser\
-rosrun mypcl myDriveMotor
-rosrun mypcl mySteerMotor
+rosrun mypcl myDriveMotor\
+rosrun mypcl mySteerMotor\
 # Call all of the nodes in one time
 On the Laptop PC\
 roslaunch grinding_robot robot.launch
