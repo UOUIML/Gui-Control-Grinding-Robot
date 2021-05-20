@@ -4,7 +4,7 @@ OpenCv\
 PCL: Point Cloud Lib\
 QT
 # Action File for Command Line
-myspcl/action/scan.action
+mypcl/action/scan.action
 # Build the package
 Catkin_make
 # Call the GUI grinding robot 
